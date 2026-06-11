@@ -1,16 +1,38 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern personal portfolio website built with **React**, **JavaScript**, and **Vite**, focused on creating a polished, interactive, and visually engaging developer portfolio experience.
 
-Currently, two official plugins are available:
+This project is designed with an **Awwwards-inspired creative direction**, using smooth layouts, bold visual sections, clean UI structure, and parallax-style design concepts to create a premium portfolio presentation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Overview
 
-## React Compiler
+This portfolio website represents my work, skills, projects, and creative identity as a developer. The goal is to move beyond a basic static portfolio and build something that feels professional, modern, animated, and memorable.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- React-based component structure
+- JavaScript-driven frontend development
+- Vite-powered fast development workflow
+- Modern responsive layout
+- Parallax-inspired visual design
+- Creative portfolio presentation style
+- Clean and maintainable project structure
+- Awwwards-style design direction with smooth visual sections
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React
+- JavaScript
+- Vite
+- HTML
+- CSS
+
+## Project Goal
+
+The goal of this project is to build a professional personal portfolio that reflects strong frontend development skills, creative design thinking, and attention to user experience.
+
+This website is being developed as a visually impressive portfolio inspired by high-end creative websites, with a focus on animations, parallax effects, smooth transitions, and modern web presentation.
+
+## Status
+
+Currently in development.

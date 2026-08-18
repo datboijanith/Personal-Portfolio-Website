@@ -62,7 +62,7 @@ export default function Hero() {
             marginBottom: '1.5rem',
           }}
         >
-          Developer & Creative
+          Student, Full-Stack developer
         </motion.p>
 
         <motion.h1
@@ -91,7 +91,7 @@ export default function Hero() {
             lineHeight: 1.8,
           }}
         >
-          I'm Janith — a developer who crafts immersive, human-centered
+          I'm Janith Wickramasinghe, a developer who crafts immersive, human-centered
           experiences. No fluff, just meaningful code and design.
         </motion.p>
 

@@ -1,0 +1,31 @@
+/* src/styles/theme.css */
+
+:root {
+  /* Backgrounds — no pure black/white */
+  --bg-deep: #0f0d0c;
+  --bg-mid: #1a1614;
+  --bg-light: #f4efe8;
+  --bg-card: #231f1b;
+
+  /* Text */
+  --text-primary: #ece6de;
+  --text-secondary: #b5aaa0;
+  --text-inverse: #1a1614;
+
+  /* Accent — gold + rust (no purple, no neon) */
+  --accent-gold: #c8a46e;
+  --accent-rust: #b85c3a;
+
+  /* Typography — loaded via Google Fonts CDN in index.html */
+  --font-display: 'Fraunces', serif;
+  --font-body: 'Satoshi', sans-serif;
+
+  /* Borders */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+
+  /* Transitions */
+  --ease-smooth: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --duration-slow: 0.8s;
+}

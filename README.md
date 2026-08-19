@@ -6,7 +6,7 @@ This project is designed with an **Awwwards-inspired creative direction**, using
 
 ## Overview
 
-This portfolio website represents my work, skills, projects, and creative identity as a developer. The goal is to move beyond a basic static portfolio and build something that feels professional, modern, animated, and memorable.
+This portfolio website represents my work, skills, projects, and creative identity as a developer. The goal is to move beyond a basic static portfolio and build something that feels professional, modern, animated, and memorable to the viewer.
 
 ## Features
 

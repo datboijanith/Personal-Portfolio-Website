@@ -33,6 +33,3 @@ The goal of this project is to build a professional personal portfolio that refl
 
 This website is being developed as a visually impressive portfolio inspired by high-end creative websites, with a focus on animations, parallax effects, smooth transitions, and modern web presentation.
 
-## Status
-
-Currently in development.
